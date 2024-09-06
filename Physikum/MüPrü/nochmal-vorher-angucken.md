@@ -24,8 +24,8 @@ epitheloide Zellverbände aus modifizierten Fibroblasten
 Gehirn: Normalerweise kein Epiduralraum, bei Epiduralblutung kommt es zum Ablösen der Dura mater vom Knochen -> pathologischer blutgefüllter Epiduralraum
 
 ### 3. Ventrikel
-![Dritter Ventrikel](image.png)
+![Dritter Ventrikel](saggital-schnitt.png)
 
 ### Forel- und Meynert-Achse
 
-![alt text](image.png)
+![alt text](gehirn-achsen.png)

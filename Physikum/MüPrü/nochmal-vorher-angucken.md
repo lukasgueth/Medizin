@@ -1,5 +1,15 @@
 # Nochmal angucken vor der Müprü
 
+[ ] Aktionspotential Schrittmacherzelle Herz Kurve
+[ ] Aktionspotential Arbeitsmyokard Kurve
+[ ] Gleichgewichtspotentiale für die Ionen nachgucken
+[ ] Bild angucken ![alt text](sasse-pathways.png)
+[ ] Bild angucken ![alt text](übersicht-rezeptoren.png)
+[ ] Bild angucken ![alt text](übersicht-magen.png)
+[ ] Bild angucken ![alt text](schwerhörigkeit.png)
+[ ] Bild angucken ![alt text](kammerwasser-produktion.png)
+[ ] Bild angucken ![alt text](licht-spektrum.png)
+
 ## Anatomie
 
 ### Blut-Liquor-Schranke
@@ -86,7 +96,7 @@ Pons -> Sulcus bulbopontinus (zwischen Medulla oblongata und Pons) -> am Clivus 
 
 ### Trypsin
 
-Ist eine Serinprotease und gehört zu den Endopeptidasen. 
+Ist eine Serinprotease und gehört zu den Endopeptidasen.
 Serinprotease: Katalytische Triade aus **Serin, Histidin & Aspartat**.
 🚨 **Spaltet aber immer hinter basischen Aminosäuren Arginin oder Lysin**
 
@@ -98,12 +108,12 @@ Sind **Serin/Threonin** Kinasen.
 
 Alle proteinogenen AS haben am alpha-C-Atom ein **Chiralitätszentrum** und liegen in L-Form vor, d.h. die Aminogruppe liegt links vom alpha-C-Atom.
 
-### Harnstoffzyklus
+### Abbau von Aminosäuren
 
-Ziel: Ausscheidung von **Stickstoff!!**
+Zwei Varianten
 
-Aktivierung durch: **N-Acetylglutamat**. 
-Je mehr Glutamat/Acetyl-CoA vorhanden, desto mehr N-Acetylglutamat!
+- Übertragen (Transaminierung) bzw. Abspalten der Aminogruppe (Desaminierung)
+- Abspalten der Carboxylgruppe (Decarboxylierung)
 
 ### Transaminierungsreaktionen
 
@@ -114,12 +124,24 @@ alpha-Ketosäuren Beispiele: alpha-Ketoglutarat, Oxalacetat, Brenztraubensäure 
 
 ### Desaminierungen
 
-Eliminierende Desaminierung: Abspaltung der Aminogruppe in Form von Ammoniak unter **Abspaltung von Wasser**.
+#### Eliminierende Desaminierung
+
+Abspaltung der Aminogruppe in Form von Ammoniak unter **Abspaltung von Wasser**.
 ![alt text](eliminierende-desaminierung.png)
 
-Hydrolytische Desaminierung: Abspaltung der Aminogruppe in Form von Ammoniak unter **Einbau von Wasser**.
+#### Hydrolytische Desaminierung
+
+Abspaltung der Aminogruppe in Form von Ammoniak unter **Einbau von Wasser**.
 Beispiele: **Glutaminase** & Asparaginase -> irreversibel
 ![alt text](hydrolytische-desaminierung.png)
+
+#### Oxidative Desaminierung
+
+Abspaltung der Aminogruppe nach vorheriger **Oxidation der Aminosäure**.
+**Aminogruppe wird nicht übertragen, sondern in Form von Ammonium-Ion freigesetzt**.
+Cofaktor: NAD+ oder NADP+
+Beispiel: Glutamatdehydrogenase
+![alt text](oxidative-desaminierung.png)
 
 ### Peptidbindung = "Amidbindung"
 
@@ -132,12 +154,45 @@ besitzt ATP-abhängigen Proteasekomplex. Der aus den Untereinheiten
 - 20S-UE: Unspezifische **Peptidase**aktivität
 - zwei 19S-UEinheiten: Spalten Ubiquitinmoleküle ab
 
-### Querbrückenzyklus
-
-**Myosin-ATPase**: Spaltet ATP -> ADP + Pi um Mosin vorzuspannen
-
 ### Denaturierung
 
 Protein verliert Struktur (Quartär,tertiär,sekundär) und wird zur Primärstruktur.
 
 Wenn ein Protein nach Spaltung durch Peptidasen usw. noch Oligopeptid ist, wird es durch Bürstensaumständige Oligopeptidase zu Di- und Tripeptide gespalten.
+
+### Harnstoffzyklus
+
+- Ziel: Ausscheidung von **Stickstoff!!**
+- Aktivierung durch: **N-Acetylglutamat**.
+Je mehr Glutamat/Acetyl-CoA vorhanden, desto mehr N-Acetylglutamat!
+
+### Querbrückenzyklus
+
+**Myosin-ATPase**: Spaltet ATP -> ADP + Pi um Mosin vorzuspannen
+
+### Citratzyklus
+
+- **Isocitratdehydrogenase** kann auch über **ATP** gehemmt werden.
+
+- **Succinyl-CoA-Synthetase** nutzt Energie aus Spaltung der **Thioetherbindung** zwischen Succinat & CoA für die **Substratkettenphosphorylierung**.
+
+### Atmungskette
+
+- Wenn Atmungskette gehemmt -> Anaerobe Glykolyse mit LDH -> irgendwann Laktatazidose => **Inneres Ersticken**
+
+- **Ubichininon** nimmt 2e- **und** 2H+ entweder aus Komplex I oder II auf und wird zu **Ubichinol** (durch die Reduktion mit den Protonen)
+
+### Glykolyse
+
+- **Insulin** *steigert* Transkription der **Hexokinase**, **Glucagon** *hemmt*
+- **Glucokinase** ist *nicht* hormonell regulierbar sowie **nicht über Glc-6-P hemmbar**
+- **PFKFB2** steht für **Phosphofructokinase-2/Fructose-2,6-bisphosphat
+- PFKFB2 phsophoryliert Fructose-**6**-Phsophat zu Fructose-2,6-bisphosphat
+- **Glucagon** oder **Adrenalin** stimulieren AC -> cAMP -> PKA phosphoryliert und **aktiviert Phosphatasedomäne** der PFKFB2 und phosphoryliert eine **Phosphoproteinphosphatase**, die die **Kinasdeomäne hemmt**.
+- Insulin **verringert cAMP** und macht damit genau obiges Gegenteil!
+
+### Gluconeogenese
+
+- 2 Pyruvat für 1 Glucose
+- 2 mal 2 ATP und 1 GTP = **4 ATP und 2 GTP**
+weil die **PEPCK 1 GTP verbraucht**.

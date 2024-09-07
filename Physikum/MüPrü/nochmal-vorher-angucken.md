@@ -9,8 +9,13 @@
 [ ] Bild angucken ![alt text](schwerhörigkeit.png)
 [ ] Bild angucken ![alt text](kammerwasser-produktion.png)
 [ ] Bild angucken ![alt text](licht-spektrum.png)
+[ ] Bild angucken ![alt text](image.png)
 
 ## Anatomie
+
+### Fossa infratemporalis
+
+Enthält das **Ganglion oticum**!
 
 ### Blut-Liquor-Schranke
 
@@ -80,7 +85,11 @@ Die Lamina cribrosa liegt im **Os ethmoidale**.
 
 - Blick nach unten (durch intakten M. obliquus superior) und außen (durch intakten M. rectus lateralis)
 
-### N. abducens
+### N. trigeminus (V)
+
+N. mandibularis: u.a. Speziell viszeroefferent (Kaumuskulatur) → Ncl. motorius n. trigemini
+
+### N. abducens (6)
 
 Pons -> Sulcus bulbopontinus (zwischen Medulla oblongata und Pons) -> am Clivus in Dura -> in sinus cavernosus -> fissura orbitalis superior
 
@@ -91,6 +100,32 @@ Pons -> Sulcus bulbopontinus (zwischen Medulla oblongata und Pons) -> am Clivus 
 - N. oculomotorius (III): **Allgemein somatoefferent** und **Allgemein viszeroefferent**
 - N. vestibulocochlearis (VIII): **Speziell somatoafferent**
 - N. accessorius (XI): **Allgemein somatoefferent** (Sternocleido und Trapezius) und **Speziell somatoefferent** (Kehlkopfmuskeln)
+- N. vagus (X): Ncl. dorsalis n. vagi ist **allgemein viszeroefferent**
+
+### N. glossopharyngeus
+
+④ Unterhalb Foramen jugulare: Ganglion inferius n. glossopharyngei
+⑤ Zieht zwischen der **A. carotis interna und V. jugularis interna** sowie hinter dem **M. stylopharyngeus** zur Zunge und gibt folgende Äste ab
+
+- N. tympanicus → Bildet Plexus tympanicus
+- R. tubarius: Sensible Innervation der Tuba auditiva
+- N. petrosus minor (aus Plexus tympanicus) → Ganglion oticum → Parasympathisch Gl. parotis, buccales und labiales
+
+### N. vagus
+
+Zieht durch mediastium **posterius**.
+
+### N. hypoglossus
+
+Verläuft zwischen: **M. mylohyoideus & M. hyoglossus** und zweigt sich dort in seine Äste auf.
+
+### Basalganglien
+
+Striatum → Nucleus caudatus & Putamen
+
+### A. carotis interna
+
+Gibt **A. communicans posterior** (in ihrem pars cerebralis) ab!
 
 ## Biochemie
 
@@ -166,6 +201,12 @@ Wenn ein Protein nach Spaltung durch Peptidasen usw. noch Oligopeptid ist, wird 
 - Aktivierung durch: **N-Acetylglutamat**.
 Je mehr Glutamat/Acetyl-CoA vorhanden, desto mehr N-Acetylglutamat!
 
+### Glutaminase (bei Azidose)
+
+Glutaminase gibt es in der Leber und in der **Niere**.
+In der Leber wird Harnstoff produziert.
+In der Niere wird das Ammonium direkt ausgeschieden.
+
 ### Querbrückenzyklus
 
 **Myosin-ATPase**: Spaltet ATP -> ADP + Pi um Mosin vorzuspannen
@@ -196,3 +237,17 @@ Je mehr Glutamat/Acetyl-CoA vorhanden, desto mehr N-Acetylglutamat!
 - 2 Pyruvat für 1 Glucose
 - 2 mal 2 ATP und 1 GTP = **4 ATP und 2 GTP**
 weil die **PEPCK 1 GTP verbraucht**.
+
+### Häm-Synthese
+
+![alt text](häm-synthese.png)
+
+## Physio
+
+### Chemorezeptoren
+
+Aktivieren den Symphatikus (bei z.B. erniedrigtem pH).
+
+### Phosphatpuffersystem
+
+Reaktion: PO43− + 3 H+ ⇄ HPO42− + 2 H+ ⇄ H2PO4− + H+ ⇄ H3PO4

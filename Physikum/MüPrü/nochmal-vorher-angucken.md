@@ -13,6 +13,18 @@
 
 ## Anatomie
 
+### Nicht-autochthone Rückenmuskulatur
+
+Die nicht-autochthonen Muskeln entstehen in der Embryonalentwicklung primär am Kopf und den Extremitäten und wandern erst sekundär auf den Rücken. Man spricht deshalb auch von der sekundären Rückenmuskulatur.
+
+### Corpus adiposum preepiglotticae
+
+Respirationstrakt beim Schluckakt verschlossen wird (Stichwort Corpus adiposum preepiglottica).
+
+### Sinus maxillaris
+
+Der Sinus maxillaris mündet indirekt in den mittleren Nasengang. Über den Hiatus maxillaris gelangt das Sekret in das Infundibulum ethmoidale und von dort aus in den mittleren Nasengang.
+
 ### Fossa infratemporalis
 
 Enthält das **Ganglion oticum**!
@@ -102,6 +114,10 @@ Pons -> Sulcus bulbopontinus (zwischen Medulla oblongata und Pons) -> am Clivus 
 - N. accessorius (XI): **Allgemein somatoefferent** (Sternocleido und Trapezius) und **Speziell somatoefferent** (Kehlkopfmuskeln)
 - N. vagus (X): Ncl. dorsalis n. vagi ist **allgemein viszeroefferent**
 
+### N. facialis
+
+**M. stapedius** darf nicht vergessen werden!!!
+
 ### N. glossopharyngeus
 
 ④ Unterhalb Foramen jugulare: Ganglion inferius n. glossopharyngei
@@ -182,6 +198,8 @@ Beispiel: Glutamatdehydrogenase
 
 Peptidbindungen werden am **Ribosom** verknüpft!
 
+![alt text](peptidbindung.png)
+
 ### Proteasom
 
 besitzt ATP-abhängigen Proteasekomplex. Der aus den Untereinheiten
@@ -200,6 +218,9 @@ Wenn ein Protein nach Spaltung durch Peptidasen usw. noch Oligopeptid ist, wird 
 - Ziel: Ausscheidung von **Stickstoff!!**
 - Aktivierung durch: **N-Acetylglutamat**.
 Je mehr Glutamat/Acetyl-CoA vorhanden, desto mehr N-Acetylglutamat!
+
+Carbamoylphosphatsynthetase braucht **2 ATP** und macht sie zu 2 ADP + Pi.
+Argininosuccinat-synthetase bracuht 1 ATP und macht es zu AMP + PPi.
 
 ### Glutaminase (bei Azidose)
 
@@ -227,6 +248,7 @@ In der Niere wird das Ammonium direkt ausgeschieden.
 
 - **Insulin** *steigert* Transkription der **Hexokinase**, **Glucagon** *hemmt*
 - **Glucokinase** ist *nicht* hormonell regulierbar sowie **nicht über Glc-6-P hemmbar**
+- Hexokinase Km=0,01 mmmol und Glucokinase Km=10mmol (Glucokinase hat also eine **viel geringere Affinität**)
 - **PFKFB2** steht für **Phosphofructokinase-2/Fructose-2,6-bisphosphat
 - PFKFB2 phsophoryliert Fructose-**6**-Phsophat zu Fructose-2,6-bisphosphat
 - **Glucagon** oder **Adrenalin** stimulieren AC -> cAMP -> PKA phosphoryliert und **aktiviert Phosphatasedomäne** der PFKFB2 und phosphoryliert eine **Phosphoproteinphosphatase**, die die **Kinasdeomäne hemmt**.
@@ -251,3 +273,26 @@ Aktivieren den Symphatikus (bei z.B. erniedrigtem pH).
 ### Phosphatpuffersystem
 
 Reaktion: PO43− + 3 H+ ⇄ HPO42− + 2 H+ ⇄ H2PO4− + H+ ⇄ H3PO4
+
+### Verdauung
+
+Enterozyten nehmen Eisen-Ionen bevorzugt in reduzierter Form (Fe2+) auf.
+
+DMT1-(Divalent-Metal-Transporter-1)Weg → **ø eisenspezifisch**: Auch alle anderen zweiwertigen Metallionen
+
+### Osmorezeptoren
+
+Vorkommen: **Hypothalamus** und Juxtaglomerulärer Apparat
+
+Plasma Hyperosmolar -> führt über Aquaporine zu Zellschwellung
+Plasma Hypoosmolar -> führt über Aquaporine zu Zellschrumpfung
+
+Zellschwellung -> Hyperpolarisation -> verringerten Ausschüttung von Vasopressin
+Zellschrumpfung -> Depolarisation -> vermehrte Ausschüttung von Vasopressin
+
+### Triebkraft für ein Ion
+
+Triebkraft = Gleichgewichtspotential - Membranpotential
+
+Gleichgewichtspotential: Spezifisch für jedes Ion
+Ruhemembranpotential: Zusammengerechnet aus allen Ionen

@@ -10,6 +10,8 @@
 [ ] Bild angucken ![alt text](kammerwasser-produktion.png)
 [ ] Bild angucken ![alt text](licht-spektrum.png)
 [ ] Bild angucken ![alt text](image.png)
+[ ] Bild angucken ![alt text](elongation.png)
+[ ] Wie wird entschieden ob Ammoniak ausgeschieden oder fixiert wird?
 
 ## Anatomie
 
@@ -144,6 +146,37 @@ Striatum → Nucleus caudatus & Putamen
 Gibt **A. communicans posterior** (in ihrem pars cerebralis) ab!
 
 ## Biochemie
+
+### Definition Biotransformation
+
+Biotransformation = Umwandlung von apolaren, lipophilen Stoffen in polare, wasserlösliche Stoffe.
+
+### Depurinierung
+
+Thermische Spaltung der N-glykosidischen Bindung zwischen Desoxyribose & Purinbasen.
+
+### Knallgasreaktion
+
+Die Knallgasreaktion ist eine exotherme Reaktion, bei der Wasserstoff und Sauerstoff unter Freisetzung von Wärme und Licht zu Wasser reagieren.
+
+### Polymerasen
+
+Polymerase δ: Synthese des Folgestrangs | Polymerase ε: Synthese des Leitstrangs
+
+### Cytochrom C
+
+Bestandteile:
+
+- Aminosäuren (ist ein Protein)
+- Häm-Gruppe
+- Eisenion an Häm gebunden
+
+Kann Apoptose einleiten. Essentiell für die Atmungskette.
+
+### Ubichinon
+
+Ist ein **Chinon-Derivat** mit **isoprenoider Seitenkette**.
+Es ist wichtig für den Elektronentransfer.
 
 ### Trypsin
 
